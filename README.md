@@ -2,7 +2,7 @@
 
 Este es un proyecto de "red social" para poder demostrar y reforzar mis conocimientos.
 
-#####Podras ir visualizando los avances a medida que avanza el proyecto.
+##### Podras ir visualizando los avances a medida que avanza el proyecto.
 
 * **ANGULAR**
 * **JAVA SPRING BOOT**
