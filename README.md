@@ -4,6 +4,8 @@ Este es un proyecto de "red social" para poder demostrar y reforzar mis conocimi
 
 ##### Podras ir visualizando los avances a medida que avanza el proyecto.
 
+###### Algunas de las tecnologías con las que se realizara el desarrollo son las siguientes:
+
 * **ANGULAR**
 * **JAVA SPRING BOOT**
 * **SPRING SECURITY + JWT** para la autenticación y la autorización.
