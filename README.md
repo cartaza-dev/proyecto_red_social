@@ -13,5 +13,8 @@ Este es un proyecto de "red social" para poder demostrar y reforzar mis conocimi
 * **JPA e HIBERNATE**
 * **WEB SOCKETS** para la comunicacion bidireccional en el chat.
 
+### Secciones del sitio
+
+  ![Imagen del sitio](https://github.com/cartaza-dev/proyecto_red_social/recursos/login.png)
 
 
